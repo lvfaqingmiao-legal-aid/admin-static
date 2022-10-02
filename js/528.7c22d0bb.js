@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklegal_aid_admin"]=self["webpackChunklegal_aid_admin"]||[]).push([[528],{56528:function(n,e,a){a.r(e),a.d(e,{default:function(){return f}});var l=function(){var n=this,e=n._self._c;return e("div",[n._v(" UserInfo ")])},u=[],r={name:"UserInfo"},i=r,s=a(1001),t=(0,s.Z)(i,l,u,!1,null,"6d0ca497",null),f=t.exports}}]);
+//# sourceMappingURL=528.7c22d0bb.js.map

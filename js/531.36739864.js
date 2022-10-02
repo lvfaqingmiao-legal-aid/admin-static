@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklegal_aid_admin"]=self["webpackChunklegal_aid_admin"]||[]).push([[531],{4531:function(n,e,i){i.r(e),i.d(e,{default:function(){return c}});var a=function(){var n=this,e=n._self._c;return e("div",[n._v(" University ")])},l=[],t={name:"University"},u=t,r=i(1001),s=(0,r.Z)(u,a,l,!1,null,"855e30ca",null),c=s.exports}}]);
+//# sourceMappingURL=531.36739864.js.map
